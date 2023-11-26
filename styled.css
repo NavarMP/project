@@ -1,7 +1,13 @@
+@font-face {
+  font-family: myFirstFont;
+  src: url(sansation_light.woff);
+}
 body {
   text-align: center;
   color: #f1f2f2;
 }
+
 h1 {
   color: #121212;
+  font-family: myFirstFont;
 }
