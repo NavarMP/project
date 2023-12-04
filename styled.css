@@ -5,12 +5,12 @@
 .center {
   margin: auto;
   width: 50%;
-  border: 3px solid green;
+  border: 3px solid #9acd32;
   padding: 10px;
 }
 body {
   text-align: center;
-  color: #f1f2f2;
+  color: #f0d000;
 }
 
 h1 {
